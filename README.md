@@ -51,8 +51,8 @@ You can use the following user to log in and test:
 
 ```
 
-Username: Eslam
-Password: Eslam-1Ahmed
+Username: admin
+Password: admin
 
 ```
 
