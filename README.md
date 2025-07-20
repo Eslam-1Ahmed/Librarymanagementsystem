@@ -62,13 +62,7 @@ Password: Eslam-1Ahmed
 
 ## 🧬 API Documentation (Swagger UI)
 
-Once the project is running, access Swagger UI at:
-
-```
-
-[http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
-
-```
+Once the project is running, access Swagger UI at: [http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
 
 You can test and explore all endpoints directly there.
 
