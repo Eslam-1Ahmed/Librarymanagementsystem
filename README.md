@@ -142,6 +142,11 @@ src/main/resources/data.sql
 * Uses `@PreAuthorize` for method-level security.
 
 ---
+## 🗂️ Database Schema
+
+![Database Schema](https://github.com/Eslam-1Ahmed/Librarymanagementsystem/blob/main/Docs/Schema.png)
+
+---
 
 ## 👨‍💻 Author
 
