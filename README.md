@@ -153,5 +153,3 @@ src/main/resources/data.sql
 
 **Eslam Ahmed**
 GitHub: [@Eslam-1Ahmed](https://github.com/Eslam-1Ahmed)
-
-```
